@@ -1,0 +1,83 @@
+.container {
+
+
+    width: 10%;
+    margin: 0px auto;
+    height: 50vmin;
+    background-color: rgb(241, 175, 175);
+    margin-top: 1.6in;
+    border-radius: 10px;
+    border: 2px solid rosybrown;
+
+
+}
+
+h1 {
+
+    width: 50%;
+    margin: 0px auto;
+    color: black;
+    text-align: center;
+    background-color: rgb(241, 175, 175);
+
+
+}
+
+.main {
+    border: 2px solid rosybrown;
+    width: 20%;
+    margin: 0px auto;
+    height: 30vmin;
+    margin-top: 0.5in;
+    border-radius: 10px;
+}
+
+.number {
+
+    display: inline-flex;
+    justify-content: space-around;
+
+}
+
+#firstnumber,
+#secondnumber {
+
+    width: 45%;
+    height: 5vmin;
+    text-align: center;
+    padding: 10px;
+    font-size: 2vmin;
+    margin-top: 0.3in;
+
+
+}
+
+
+
+#answer {
+
+    width: 60%;
+    height: 6vmin;
+   padding: 20px;
+    text-align: center;
+   background-color: black;
+   color: aliceblue;
+    margin-top: 0.2in;
+    font-size: 4vmin;
+    margin-left: 0.2in;
+}
+
+.sym {
+
+    width: 70%;
+    height: 5vmin;
+    margin-top: 0.2in;
+    margin-left: 0.3in;
+    text-align: center;
+}
+
+button {
+    width: 20%;
+    height: 5vmin;
+    font-size: 4vmin;
+}
